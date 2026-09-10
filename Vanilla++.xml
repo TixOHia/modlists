@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<savedModList>
+	<meta>
+		<gameVersion>1.6.4871 rev591</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ilyvion.loadingprogress</li>
+			<li>taranchuk.fastergameloading</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.odyssey</li>
+			<li>vanillaexpanded.backgrounds</li>
+			<li>ceteam.combatextended</li>
+			<li>adaptive.storage.framework</li>
+			<li>aoba.framework</li>
+			<li>imranfish.xmlextensions</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>anomalypatch.1trickpwnyta</li>
+			<li>biotechpatch.1trickpwnyta</li>
+			<li>defaults.1trickpwnyta</li>
+			<li>ideologypatch.1trickpwnyta</li>
+			<li>odysseypatch.1trickpwnyta</li>
+			<li>antihydrogen.donotavoidfire</li>
+			<li>arylice.rimworld.automaticstumpchopping</li>
+			<li>better.plants</li>
+			<li>cm.ideology.upscaled</li>
+			<li>echotidefish.pawstorest</li>
+			<li>frozensnowfox.growableambrosia</li>
+			<li>nals.facialanimation</li>
+			<li>tw.tangs.retexture.snowman</li>
+			<li>ab.hatweaker</li>
+			<li>kipsmods.adjustableabilitycooldowns</li>
+			<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
+			<li>jintuzilamian.hairstyle.afumenshairstyles</li>
+			<li>superniquito.allideoligionsarefluid</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>com.bymarcin.architecticons</li>
+			<li>mrk.architectmenuoptimizer</li>
+			<li>lecht.autorepairon</li>
+			<li>mireia.bodies</li>
+			<li>lemonskin.betteranimalinfo</li>
+			<li>mlie.bettermessageplacement</li>
+			<li>mumei.bettermodmenu</li>
+			<li>sylant.silver</li>
+			<li>voult.betterpawncontrol</li>
+			<li>fuu.bloodanimations</li>
+			<li>defi.blueprints.fork</li>
+			<li>brrainz.cameraplus</li>
+			<li>pes7.cebotmortarshellfix</li>
+			<li>kapitanoczywisty.changemapedge</li>
+			<li>void.charactereditor</li>
+			<li>kearril.choosewheretoland</li>
+			<li>kamikadza13.combatextended</li>
+			<li>avilmask.commonsense</li>
+			<li>petetimessix.compacthediffs</li>
+			<li>mlie.cutplantsbeforebuilding</li>
+			<li>caesarv6.damageindicators</li>
+			<li>kathanon.damageoverlay</li>
+			<li>coffin.debuglogautoopenoff</li>
+			<li>cruesoe.devmodehotkey</li>
+			<li>md.prioritizeresearch</li>
+			<li>telardo.dragselect</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>dubwise.dubsskylights</li>
+			<li>mlie.ducksnolimitsideology</li>
+			<li>kill5n.elkretexture</li>
+			<li>designer225.enhancedcarryingcapacity</li>
+			<li>icc.eov.flak</li>
+			<li>keshash.extraexplosioneffects</li>
+			<li>azravos.factioncustomizer</li>
+			<li>kathanon.fixstyledblueprints</li>
+			<li>aoba.fortress.industrial</li>
+			<li>yuki.fpsandtps</li>
+			<li>matvey24.fpsstabilizer</li>
+			<li>zal.fhf</li>
+			<li>gerrymon.greekcorestyle</li>
+			<li>thegoofyone.glowingambrosia</li>
+			<li>sclarke.groundtargeter1.6temp</li>
+			<li>wowgag.guiperformancepatch</li>
+			<li>ogliss.ykara.harvesteverything</li>
+			<li>andromeda.helpmebuild</li>
+			<li>orion.hospitality</li>
+			<li>vopaga.hyperdrive</li>
+			<li>amch.improvedneedindicator</li>
+			<li>costel.layeredapparel</li>
+			<li>imranfish.madderskills</li>
+			<li>zylle.mapdesigner</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>wazz.ui.maz</li>
+			<li>andromeda.milkyway</li>
+			<li>rabiosus.minesight</li>
+			<li>erdelf.minifyeverything</li>
+			<li>astryl.moderndevtools</li>
+			<li>superniquito.moreinformativeideology</li>
+			<li>kirby.morereligiousorigins</li>
+			<li>ru.nfd.morereligiousorigins</li>
+			<li>cn.moreusefulmaterials</li>
+			<li>oels.multireinstall</li>
+			<li>issaczhuang.muzzleflash</li>
+			<li>andromeda.nicebilltab</li>
+			<li>andromeda.niceinventorytab</li>
+			<li>andromeda.niceplantsmenu</li>
+			<li>thegoosebehindtheslaughter.noforcedslowdown</li>
+			<li>doug.nojobauthors</li>
+			<li>edern.norandomapparelonideoedit</li>
+			<li>dvs.norandomrelations</li>
+			<li>mlie.noversionwarning</li>
+			<li>squirtingelephant.nozzz</li>
+			<li>mehni.numbers</li>
+			<li>diddily.overlappinginteractionspots</li>
+			<li>andromeda.packablecontainers</li>
+			<li>taranchuk.performanceoptimizerrussiantranslation</li>
+			<li>mehni.pickupandhaul</li>
+			<li>telardo.pipettetool</li>
+			<li>ponpeco.pphair</li>
+			<li>dawnsglow.qualcolor</li>
+			<li>hatti.qualitybuilder</li>
+			<li>hellrevenger.quickarea</li>
+			<li>longwater.smartstockpilecreation</li>
+			<li>mastertea.randomplus</li>
+			<li>timur4el.randomplus.ua.ru</li>
+			<li>mlie.rangeddps</li>
+			<li>lucifer.realisticrooms</li>
+			<li>reel.expanded.storage</li>
+			<li>weilbyte.renamecolony</li>
+			<li>yosaishu.ru.weilbyte.renamecolony</li>
+			<li>chad.retexturedapparelnopawns1.5</li>
+			<li>victor.column</li>
+			<li>jaxe.rimhud</li>
+			<li>arandomkiwi.rimsaves</li>
+			<li>ferny.rominaready</li>
+			<li>louize.runtimegc.fork</li>
+			<li>am.rus.dubsmintmenus</li>
+			<li>am.rus.smartstockpilecreation</li>
+			<li>am.rus.realisticrooms</li>
+			<li>dev.soeur.scenarioeditoruioverhaul</li>
+			<li>boots.sensiblefactions</li>
+			<li>automatic.prisonerbedsetowner</li>
+			<li>bp.showbuildablematerialcount</li>
+			<li>mlie.showmeyourhands</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>sarg.smartspeed</li>
+			<li>0smadeu5.smartspeed.russian</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>indeed.stackxxl</li>
+			<li>vis.staticquality</li>
+			<li>stylerevised.animalist</li>
+			<li>sunlamphonesty.1trickpwnyta</li>
+			<li>memegoddess.tdfindlib</li>
+			<li>memegoddess.tdsbugfixes</li>
+			<li>mrhydralisk.techlevelprogression</li>
+			<li>void.terraformrimworld</li>
+			<li>hobtook.tradeui</li>
+			<li>andromeda.unburned</li>
+			<li>madarauchiha.undraftaftertucking</li>
+			<li>projectsixth.useminifiedbuildings</li>
+			<li>ow.ru.backgrounds</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.ideo.sophianstyle</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>tolak.vtexe.ambrosiafix</li>
+			<li>vis.rocksandstones</li>
+			<li>visibleraidpoints.1trickpwnyta</li>
+			<li>tiduin.wealthdisplaycontinued</li>
+			<li>bodlosh.weaponstats</li>
+			<li>ferny.worldbuilder</li>
+			<li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
+			<li>crtdgd.ru.hugslib</li>
+			<li>dodther.rimhudsubmodrussian</li>
+			<li>omegaschizophrenie.rumechtab</li>
+			<li>cf.anomalyupscaled2x</li>
+			<li>cf.odysseyupscaled2x</li>
+			<li>lusty.lustechvwr</li>
+			<li>brrainz.achtung</li>
+			<li>micharduio.all.1trickpwnyta</li>
+			<li>anthitei.athsretexturefemalapparel.retexture</li>
+			<li>coldcrow.betterorbitaltraders</li>
+			<li>el.biotechmechrt</li>
+			<li>bloodanimations.am.takida.fork</li>
+			<li>neachi.charactereditor.facialanimation.eyepatch</li>
+			<li>ih.clean.textures</li>
+			<li>happycam.commsconsoleretexture</li>
+			<li>ru.pashka.petetimessix.compacthediffs</li>
+			<li>memegoddess.ctrlf</li>
+			<li>nanamy.damageindicatorsru</li>
+			<li>koberiddle.disableanimatedmarsh</li>
+			<li>aoba.fortress.industrial.citadel</li>
+			<li>aoba.fortress.frontier</li>
+			<li>gerrymon.greekcorestylerussian</li>
+			<li>gerrymon.uvt</li>
+			<li>dag0n00969.harvesteverything.russianfix</li>
+			<li>happycam.hitechresearchretexture</li>
+			<li>ka.improvedneedindicatorru</li>
+			<li>micharduio.costel.layeredapparel</li>
+			<li>happycam.lrmscannerretexture</li>
+			<li>spacemoth.mechtab</li>
+			<li>happycam.conditioncauserretexture</li>
+			<li>meviangrise.moreusefulmaterialsretexture</li>
+			<li>tidal.morevanilla.textures</li>
+			<li>happycam.multianalyzerretexture</li>
+			<li>andromeda.nicehands</li>
+			<li>andromeda.nitice</li>
+			<li>andromeda.niceresearchtab</li>
+			<li>happycam.odysseyconsoleretexture</li>
+			<li>xubisca.privacyplease</li>
+			<li>ferny.progressionscenarios</li>
+			<li>ferny.progressionstorytellers</li>
+			<li>mute.vpesensitivity</li>
+			<li>kamikadza13qol.all</li>
+			<li>kamikadza13.legodude17.qualcolor</li>
+			<li>kamikadza13.mlie.rangeddps</li>
+			<li>dag0n00969.reelexpandedstorage.russian</li>
+			<li>memegoddess.replacestuff</li>
+			<li>simplesidearms.ruslang.by.vsk</li>
+			<li>jelheb.rusticmealretexture</li>
+			<li>stokes.simplehoodcape</li>
+			<li>andromeda.stackgap</li>
+			<li>al9000.tvc</li>
+			<li>andromeda.usefulmarks</li>
+			<li>sirvan.hemogentexture</li>
+			<li>sirvan.mechanitorretexture</li>
+			<li>sirvan.mwretextured</li>
+			<li>happycam.vitalsretexture</li>
+			<li>mewn.rus.vfepropsanddecor</li>
+			<li>ow.ru.vie</li>
+			<li>auntydonna.mechanoidslagchunksretextured</li>
+			<li>vanillaexpanded.vpe.hemosage</li>
+			<li>vanillaexpanded.vpe.puppeteer</li>
+			<li>vanillaexpanded.vtexe.facialanims</li>
+			<li>kamikadza13.visibleraidpoints.1trickpwnyta</li>
+			<li>wealthlist.ui.tmpfix</li>
+			<li>rusferny.worldbuilder</li>
+			<li>ru.pashka.wvc.sergkart.biotech.moremechanoidsworkmodes</li>
+			<li>frozensnowfox.complexjobs</li>
+			<li>ru.pashka.brrainz.achtung</li>
+			<li>andromeda.ammoreadout</li>
+			<li>ferny.betterarchitect</li>
+			<li>andromeda.busywork</li>
+			<li>ih.clean.textures.soil</li>
+			<li>ag.ru.fortress</li>
+			<li>tixohia.goidafication</li>
+			<li>tied.parkaretex</li>
+			<li>dmitry6.progressions.rus2026</li>
+			<li>ru.pashka.uuugggg.replacestuff</li>
+			<li>nomadrw.turretvanillaretexturerestyle</li>
+			<li>ow.ru.psy</li>
+			<li>ru.pashka.frozensnowfox.complexjobs</li>
+			<li>qux.betterarchitect</li>
+			<li>kelly259.betterarchitectmenu.ru</li>
+			<li>koberiddle.betterarchitectmenu.tweaks</li>
+			<li>ow.ru.core</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>vr.rus.missilegirl</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>867467808</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>730936602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Loading Progress</li>
+			<li>Faster Game Loading - Continued</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>Odyssey</li>
+			<li>Vanilla Backgrounds Expanded</li>
+			<li>Combat Extended</li>
+			<li>Adaptive Storage Framework</li>
+			<li>Fortified Features Framework</li>
+			<li>XML Extensions</li>
+			<li>HugsLib</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>1trickPwnyta's Anomaly Patch</li>
+			<li>1trickPwnyta's Biotech Patch</li>
+			<li>1trickPwnyta's Defaults</li>
+			<li>1trickPwnyta's Ideology Patch</li>
+			<li>1trickPwnyta's Odyssey Patch</li>
+			<li>[1.6] Do Not Avoid Fire</li>
+			<li>[ARY] Automatic Stump Chopping [1.5 - 1.6]</li>
+			<li>[CF] Better Looking Plants</li>
+			<li>[CM] Ideology DLC Texture Upscale</li>
+			<li>[ETF] Paws To Rest</li>
+			<li>[FSF] Growable Ambrosia</li>
+			<li>[NL] Facial Animation - WIP</li>
+			<li>[TW1.6]雪人贴图重置 Retexture~Snow man</li>
+			<li>AB's Head Apparel Tweaker</li>
+			<li>Adjustable Ability Cooldowns</li>
+			<li>AFU女士发型_Women's hairstyles</li>
+			<li>AFU男士发型_Men's hairstyles</li>
+			<li>All Ideoligions Are Fluid</li>
+			<li>Allow Tool</li>
+			<li>Architect Icons</li>
+			<li>Architect Menu Optimizer</li>
+			<li>Auto-repair On</li>
+			<li>Beautiful Bodies</li>
+			<li>Better Animal Info</li>
+			<li>Better Message Placement (Continued)</li>
+			<li>Better Mod Menu</li>
+			<li>Better money</li>
+			<li>Better Pawn Control</li>
+			<li>Blood Animations</li>
+			<li>Blueprints Forked - 1.6</li>
+			<li>Camera+</li>
+			<li>CE + Better Orbital Traders: MortarShell Fix</li>
+			<li>Change map edge limit</li>
+			<li>Character Editor</li>
+			<li>Choose Where To Land</li>
+			<li>Combat Extended rus</li>
+			<li>Common Sense</li>
+			<li>Compact Hediffs</li>
+			<li>Cut plants before building (Continued)</li>
+			<li>Damage Indicators [1.6]</li>
+			<li>Damage Overlay</li>
+			<li>Debug Log Auto-Open Off</li>
+			<li>Dev Mode Hotkey</li>
+			<li>Do Your F****** Research</li>
+			<li>DragSelect</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Skylights</li>
+			<li>Ducks' No Limits - Ideology (Continued)</li>
+			<li>Elk Retexture</li>
+			<li>Enhanced Carrying Capacity</li>
+			<li>Enhanced of Vanilla - Flaks and Plates</li>
+			<li>Extra Explosion Effects</li>
+			<li>Faction Customizer</li>
+			<li>Fix Styled Blueprints</li>
+			<li>Fortifications - Industrial</li>
+			<li>FPS And TPS</li>
+			<li>FPS Stabilizer</li>
+			<li>Friendly Hostile Factions (Continued)</li>
+			<li>Gerrymon's Greekcore Style</li>
+			<li>Glowing Ambrosia</li>
+			<li>Ground Targeter</li>
+			<li>GUI Performance Patch</li>
+			<li>Harvest Everything!</li>
+			<li>Help me build</li>
+			<li>Hospitality (Continued)</li>
+			<li>Hyperdrive</li>
+			<li>Improved Need Indicator</li>
+			<li>Layered Apparel</li>
+			<li>Madder Skills</li>
+			<li>Map Designer</li>
+			<li>Map Preview</li>
+			<li>MAZ Mass Assign Zone</li>
+			<li>Milky Way</li>
+			<li>Mine Sight</li>
+			<li>MinifyEverything</li>
+			<li>Modern Dev Tools</li>
+			<li>More Informative Ideology</li>
+			<li>More Religious Origins</li>
+			<li>More Religious Origins Russian</li>
+			<li>More Useful Materials</li>
+			<li>Multi-Reinstall</li>
+			<li>Muzzle Flash</li>
+			<li>Nice Bill Tab</li>
+			<li>Nice Inventory Tab</li>
+			<li>Nice Plants Menu</li>
+			<li>No Forced Slowdown</li>
+			<li>No Job Authors</li>
+			<li>No Random Apparel on Ideology Edit</li>
+			<li>No Random Relations</li>
+			<li>No Version Warning</li>
+			<li>No ZzZ</li>
+			<li>Numbers</li>
+			<li>Overlapping Interaction Spots</li>
+			<li>Packable Containers</li>
+			<li>Performance Optimizer - Russian Translation</li>
+			<li>Pick Up And Haul</li>
+			<li>Pipette Tool</li>
+			<li>Ponpeco Hair</li>
+			<li>Quality Colors (Continued)</li>
+			<li>QualityBuilder Unofficial 1.6</li>
+			<li>Quick Area</li>
+			<li>Quick Stockpile Creation</li>
+			<li>RandomPlus</li>
+			<li>RandomPlus - UA, Ru</li>
+			<li>Ranged DPS (Continued)</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>Reel's Expanded Storage</li>
+			<li>RenameColony</li>
+			<li>RenameColony Rus</li>
+			<li>Retexturedapparelnopawns1.5</li>
+			<li>Revert Column Texture</li>
+			<li>RimHUD</li>
+			<li>RimSaves</li>
+			<li>Romina Ready - Progression Storytellers</li>
+			<li>RuntimeGC [1.6] fork2</li>
+			<li>Rus Dubs Mint Menus</li>
+			<li>Rus Quick Stockpile Creation</li>
+			<li>Rus Realistic Rooms</li>
+			<li>Scenario Editor UI Overhaul</li>
+			<li>Sensible Factions</li>
+			<li>Set Owner for Prisoner Beds</li>
+			<li>Show Buildable Material Count</li>
+			<li>Show Me Your Hands</li>
+			<li>Simple sidearms</li>
+			<li>Smart Speed</li>
+			<li>Smart Speed - Русский перевод</li>
+			<li>Smarter Construction</li>
+			<li>Stack XXL</li>
+			<li>Static Quality</li>
+			<li>Style Revised - Animalist</li>
+			<li>Sun Lamp Auto-Basins</li>
+			<li>TD Find Lib - Continued</li>
+			<li>TDS Bug Fixes - Continued</li>
+			<li>Tech Level Progression</li>
+			<li>Terraform Rimworld</li>
+			<li>Trade UI Revised</li>
+			<li>Unburned</li>
+			<li>Undraft After Tucking</li>
+			<li>Use Minified Buildings - Supercharged!</li>
+			<li>Vanilla Backgrounds Expanded Russian Language Pack</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Ideology Expanded - Sophian Style</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Vanilla Textures Expanded - Ambrosia Texture FIX</li>
+			<li>Visandars Rocks and Stones</li>
+			<li>Visible Raid Points</li>
+			<li>Wealth Display (Continued)</li>
+			<li>WeaponStats</li>
+			<li>Worldbuilder</li>
+			<li>WVC - Work Modes</li>
+			<li>Перевод HugsLib</li>
+			<li>Русификатор RimHUD</li>
+			<li>Руссификатор Mech Work Tab</li>
+			<li>[CF] Anomaly Upscaled 2x</li>
+			<li>[CF] Odyssey Upscaled 2x</li>
+			<li>[LM] LusTech Vanilla Weapons Retexture</li>
+			<li>Achtung!</li>
+			<li>All 1trickPwnyta's Patch [RUS] [РУС]</li>
+			<li>ATH's Retexture Female Apparel</li>
+			<li>Better Orbital Traders</li>
+			<li>Biotech Mechanoid Retexture</li>
+			<li>Blood Animations [RU] 1.6</li>
+			<li>Character Editor - Facial Animation EyePatch</li>
+			<li>Clean Textures</li>
+			<li>Comms Console Retexture</li>
+			<li>Compact Hediffs Russian Language</li>
+			<li>Ctrl F - Continued</li>
+			<li>Damage Indicators [1.6] (Ru translation)</li>
+			<li>Disable Animated Marsh | Clean Textures - VTE, Regrowth Compatibility Patch</li>
+			<li>Fortification Industrial - Citadel</li>
+			<li>Fortification Industrial - Frontier</li>
+			<li>Gerrymon's Greekcore Style на русском языке</li>
+			<li>Gerrymon's Upscaled Vanilla Textures</li>
+			<li>Harvest Everything - Russian Fix</li>
+			<li>HiTech Research Bench Retexture</li>
+			<li>Improved Need Indicator [RU]</li>
+			<li>Layered Apparel [RUS] [РУС]</li>
+			<li>Long Range Mineral Scanner Retexture</li>
+			<li>Mech Work Tab</li>
+			<li>Mechanoid Cluster Retexture</li>
+			<li>More Useful Materials Retexture</li>
+			<li>More Vanilla Textures</li>
+			<li>Multi Analyzer Retexture</li>
+			<li>Nice Hands Retexture</li>
+			<li>Nice Inventory Tab CE Integration</li>
+			<li>Nice Research Tab</li>
+			<li>Pilot Console Retexture</li>
+			<li>Privacy Please!</li>
+			<li>Progression: Scenarios</li>
+			<li>Progression: Storytellers</li>
+			<li>Psychic Sensitivity Affects More (VPE)</li>
+			<li>QOL rus</li>
+			<li>Quality Colors rus</li>
+			<li>Ranged DPS (Continued) rus</li>
+			<li>Reel's Expanded Storage - Russian</li>
+			<li>Replace Stuff - Continued</li>
+			<li>Russian Language For Simple Sidearms</li>
+			<li>Rustic Meal Retexture</li>
+			<li>Simple Cape and Hood Retexture</li>
+			<li>Stack gap</li>
+			<li>Tastier Vanilla Clothes</li>
+			<li>Useful Marks</li>
+			<li>Van's Retexture : Hemogen Vials </li>
+			<li>Van's Retexture : Mechanitor</li>
+			<li>Van's Retexture : Melee Weapons</li>
+			<li>Vanilla + Wall Vitals Monitors Retexture</li>
+			<li>Vanilla Furniture Expanded - Props and Decor Russian Language Pack</li>
+			<li>Vanilla Ideology Expanded Russian Language Pack</li>
+			<li>Vanilla Mechanoid Slag Chunks Retextured</li>
+			<li>Vanilla Psycasts Expanded - Hemosage</li>
+			<li>Vanilla Psycasts Expanded - Puppeteer</li>
+			<li>Vanilla Textures Expanded - [NL] Facial Animation</li>
+			<li>Visible Raid Points rus</li>
+			<li>WealthList 1.5 From VUIE</li>
+			<li>WorldbuilderRUS</li>
+			<li>WVC - Work Modes Russian Language</li>
+			<li>[FSF] Complex Jobs</li>
+			<li>Achtung! Russian Language</li>
+			<li>Ammo Readout</li>
+			<li>Better Architect Menu</li>
+			<li>Busywork</li>
+			<li>Clean Textures - Less Grass</li>
+			<li>Fortification - Pack Rus</li>
+			<li>Goidafication</li>
+			<li>Parka Retexture</li>
+			<li>Progression - Русификатор</li>
+			<li>Replace Stuff Russian Language</li>
+			<li>Turret Vanilla Retexture and Restyle</li>
+			<li>Vanilla Psycasts Expanded Russian Language Pack</li>
+			<li>[FSF] Complex Jobs Russian Language</li>
+			<li>Better Architect Menu +</li>
+			<li>Better Architect Menu RUS</li>
+			<li>Better Architect Menu | Tweaks</li>
+			<li>Vanilla Expanded Framework Russian Language Pack</li>
+			<li>Performance Optimizer</li>
+			<li>Missile Girl - Performance Mod</li>
+		</modNames>
+	</meta>
+	<modList>
+		<ids>
+			<li>brrainz.harmony</li>
+			<li>ilyvion.loadingprogress</li>
+			<li>taranchuk.fastergameloading</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.odyssey</li>
+			<li>vanillaexpanded.backgrounds</li>
+			<li>ceteam.combatextended</li>
+			<li>adaptive.storage.framework</li>
+			<li>aoba.framework</li>
+			<li>imranfish.xmlextensions</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>anomalypatch.1trickpwnyta</li>
+			<li>biotechpatch.1trickpwnyta</li>
+			<li>defaults.1trickpwnyta</li>
+			<li>ideologypatch.1trickpwnyta</li>
+			<li>odysseypatch.1trickpwnyta</li>
+			<li>antihydrogen.donotavoidfire</li>
+			<li>arylice.rimworld.automaticstumpchopping</li>
+			<li>better.plants</li>
+			<li>cm.ideology.upscaled</li>
+			<li>echotidefish.pawstorest</li>
+			<li>frozensnowfox.growableambrosia</li>
+			<li>nals.facialanimation</li>
+			<li>tw.tangs.retexture.snowman</li>
+			<li>ab.hatweaker</li>
+			<li>kipsmods.adjustableabilitycooldowns</li>
+			<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
+			<li>jintuzilamian.hairstyle.afumenshairstyles</li>
+			<li>superniquito.allideoligionsarefluid</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>com.bymarcin.architecticons</li>
+			<li>mrk.architectmenuoptimizer</li>
+			<li>lecht.autorepairon</li>
+			<li>mireia.bodies</li>
+			<li>lemonskin.betteranimalinfo</li>
+			<li>mlie.bettermessageplacement</li>
+			<li>mumei.bettermodmenu</li>
+			<li>sylant.silver</li>
+			<li>voult.betterpawncontrol</li>
+			<li>fuu.bloodanimations</li>
+			<li>defi.blueprints.fork</li>
+			<li>brrainz.cameraplus</li>
+			<li>pes7.cebotmortarshellfix</li>
+			<li>kapitanoczywisty.changemapedge</li>
+			<li>void.charactereditor</li>
+			<li>kearril.choosewheretoland</li>
+			<li>kamikadza13.combatextended</li>
+			<li>avilmask.commonsense</li>
+			<li>petetimessix.compacthediffs</li>
+			<li>mlie.cutplantsbeforebuilding</li>
+			<li>caesarv6.damageindicators</li>
+			<li>kathanon.damageoverlay</li>
+			<li>coffin.debuglogautoopenoff</li>
+			<li>cruesoe.devmodehotkey</li>
+			<li>md.prioritizeresearch</li>
+			<li>telardo.dragselect</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>dubwise.dubsskylights</li>
+			<li>mlie.ducksnolimitsideology</li>
+			<li>kill5n.elkretexture</li>
+			<li>designer225.enhancedcarryingcapacity</li>
+			<li>icc.eov.flak</li>
+			<li>keshash.extraexplosioneffects</li>
+			<li>azravos.factioncustomizer</li>
+			<li>kathanon.fixstyledblueprints</li>
+			<li>aoba.fortress.industrial</li>
+			<li>yuki.fpsandtps</li>
+			<li>matvey24.fpsstabilizer</li>
+			<li>zal.fhf</li>
+			<li>gerrymon.greekcorestyle</li>
+			<li>thegoofyone.glowingambrosia</li>
+			<li>sclarke.groundtargeter1.6temp</li>
+			<li>wowgag.guiperformancepatch</li>
+			<li>ogliss.ykara.harvesteverything</li>
+			<li>andromeda.helpmebuild</li>
+			<li>orion.hospitality</li>
+			<li>vopaga.hyperdrive</li>
+			<li>amch.improvedneedindicator</li>
+			<li>costel.layeredapparel</li>
+			<li>imranfish.madderskills</li>
+			<li>zylle.mapdesigner</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>wazz.ui.maz</li>
+			<li>andromeda.milkyway</li>
+			<li>rabiosus.minesight</li>
+			<li>erdelf.minifyeverything</li>
+			<li>astryl.moderndevtools</li>
+			<li>superniquito.moreinformativeideology</li>
+			<li>kirby.morereligiousorigins</li>
+			<li>ru.nfd.morereligiousorigins</li>
+			<li>cn.moreusefulmaterials</li>
+			<li>oels.multireinstall</li>
+			<li>issaczhuang.muzzleflash</li>
+			<li>andromeda.nicebilltab</li>
+			<li>andromeda.niceinventorytab</li>
+			<li>andromeda.niceplantsmenu</li>
+			<li>thegoosebehindtheslaughter.noforcedslowdown</li>
+			<li>doug.nojobauthors</li>
+			<li>edern.norandomapparelonideoedit</li>
+			<li>dvs.norandomrelations</li>
+			<li>mlie.noversionwarning</li>
+			<li>squirtingelephant.nozzz</li>
+			<li>mehni.numbers</li>
+			<li>diddily.overlappinginteractionspots</li>
+			<li>andromeda.packablecontainers</li>
+			<li>taranchuk.performanceoptimizerrussiantranslation</li>
+			<li>mehni.pickupandhaul</li>
+			<li>telardo.pipettetool</li>
+			<li>ponpeco.pphair</li>
+			<li>dawnsglow.qualcolor</li>
+			<li>hatti.qualitybuilder</li>
+			<li>hellrevenger.quickarea</li>
+			<li>longwater.smartstockpilecreation</li>
+			<li>mastertea.randomplus</li>
+			<li>timur4el.randomplus.ua.ru</li>
+			<li>mlie.rangeddps</li>
+			<li>lucifer.realisticrooms</li>
+			<li>reel.expanded.storage</li>
+			<li>weilbyte.renamecolony</li>
+			<li>yosaishu.ru.weilbyte.renamecolony</li>
+			<li>chad.retexturedapparelnopawns1.5</li>
+			<li>victor.column</li>
+			<li>jaxe.rimhud</li>
+			<li>arandomkiwi.rimsaves</li>
+			<li>ferny.rominaready</li>
+			<li>louize.runtimegc.fork</li>
+			<li>am.rus.dubsmintmenus</li>
+			<li>am.rus.smartstockpilecreation</li>
+			<li>am.rus.realisticrooms</li>
+			<li>dev.soeur.scenarioeditoruioverhaul</li>
+			<li>boots.sensiblefactions</li>
+			<li>automatic.prisonerbedsetowner</li>
+			<li>bp.showbuildablematerialcount</li>
+			<li>mlie.showmeyourhands</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>sarg.smartspeed</li>
+			<li>0smadeu5.smartspeed.russian</li>
+			<li>dhultgren.smarterconstruction</li>
+			<li>indeed.stackxxl</li>
+			<li>vis.staticquality</li>
+			<li>stylerevised.animalist</li>
+			<li>sunlamphonesty.1trickpwnyta</li>
+			<li>memegoddess.tdfindlib</li>
+			<li>memegoddess.tdsbugfixes</li>
+			<li>mrhydralisk.techlevelprogression</li>
+			<li>void.terraformrimworld</li>
+			<li>hobtook.tradeui</li>
+			<li>andromeda.unburned</li>
+			<li>madarauchiha.undraftaftertucking</li>
+			<li>projectsixth.useminifiedbuildings</li>
+			<li>ow.ru.backgrounds</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.ideo.sophianstyle</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>tolak.vtexe.ambrosiafix</li>
+			<li>vis.rocksandstones</li>
+			<li>visibleraidpoints.1trickpwnyta</li>
+			<li>tiduin.wealthdisplaycontinued</li>
+			<li>bodlosh.weaponstats</li>
+			<li>ferny.worldbuilder</li>
+			<li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
+			<li>crtdgd.ru.hugslib</li>
+			<li>dodther.rimhudsubmodrussian</li>
+			<li>omegaschizophrenie.rumechtab</li>
+			<li>cf.anomalyupscaled2x</li>
+			<li>cf.odysseyupscaled2x</li>
+			<li>lusty.lustechvwr</li>
+			<li>brrainz.achtung</li>
+			<li>micharduio.all.1trickpwnyta</li>
+			<li>anthitei.athsretexturefemalapparel.retexture</li>
+			<li>coldcrow.betterorbitaltraders</li>
+			<li>el.biotechmechrt</li>
+			<li>bloodanimations.am.takida.fork</li>
+			<li>neachi.charactereditor.facialanimation.eyepatch</li>
+			<li>ih.clean.textures</li>
+			<li>happycam.commsconsoleretexture</li>
+			<li>ru.pashka.petetimessix.compacthediffs</li>
+			<li>memegoddess.ctrlf</li>
+			<li>nanamy.damageindicatorsru</li>
+			<li>koberiddle.disableanimatedmarsh</li>
+			<li>aoba.fortress.industrial.citadel</li>
+			<li>aoba.fortress.frontier</li>
+			<li>gerrymon.greekcorestylerussian</li>
+			<li>gerrymon.uvt</li>
+			<li>dag0n00969.harvesteverything.russianfix</li>
+			<li>happycam.hitechresearchretexture</li>
+			<li>ka.improvedneedindicatorru</li>
+			<li>micharduio.costel.layeredapparel</li>
+			<li>happycam.lrmscannerretexture</li>
+			<li>spacemoth.mechtab</li>
+			<li>happycam.conditioncauserretexture</li>
+			<li>meviangrise.moreusefulmaterialsretexture</li>
+			<li>tidal.morevanilla.textures</li>
+			<li>happycam.multianalyzerretexture</li>
+			<li>andromeda.nicehands</li>
+			<li>andromeda.nitice</li>
+			<li>andromeda.niceresearchtab</li>
+			<li>happycam.odysseyconsoleretexture</li>
+			<li>xubisca.privacyplease</li>
+			<li>ferny.progressionscenarios</li>
+			<li>ferny.progressionstorytellers</li>
+			<li>mute.vpesensitivity</li>
+			<li>kamikadza13qol.all</li>
+			<li>kamikadza13.legodude17.qualcolor</li>
+			<li>kamikadza13.mlie.rangeddps</li>
+			<li>dag0n00969.reelexpandedstorage.russian</li>
+			<li>memegoddess.replacestuff</li>
+			<li>simplesidearms.ruslang.by.vsk</li>
+			<li>jelheb.rusticmealretexture</li>
+			<li>stokes.simplehoodcape</li>
+			<li>andromeda.stackgap</li>
+			<li>al9000.tvc</li>
+			<li>andromeda.usefulmarks</li>
+			<li>sirvan.hemogentexture</li>
+			<li>sirvan.mechanitorretexture</li>
+			<li>sirvan.mwretextured</li>
+			<li>happycam.vitalsretexture</li>
+			<li>mewn.rus.vfepropsanddecor</li>
+			<li>ow.ru.vie</li>
+			<li>auntydonna.mechanoidslagchunksretextured</li>
+			<li>vanillaexpanded.vpe.hemosage</li>
+			<li>vanillaexpanded.vpe.puppeteer</li>
+			<li>vanillaexpanded.vtexe.facialanims</li>
+			<li>kamikadza13.visibleraidpoints.1trickpwnyta</li>
+			<li>wealthlist.ui.tmpfix</li>
+			<li>rusferny.worldbuilder</li>
+			<li>ru.pashka.wvc.sergkart.biotech.moremechanoidsworkmodes</li>
+			<li>frozensnowfox.complexjobs</li>
+			<li>ru.pashka.brrainz.achtung</li>
+			<li>andromeda.ammoreadout</li>
+			<li>ferny.betterarchitect</li>
+			<li>andromeda.busywork</li>
+			<li>ih.clean.textures.soil</li>
+			<li>ag.ru.fortress</li>
+			<li>tixohia.goidafication</li>
+			<li>tied.parkaretex</li>
+			<li>dmitry6.progressions.rus2026</li>
+			<li>ru.pashka.uuugggg.replacestuff</li>
+			<li>nomadrw.turretvanillaretexturerestyle</li>
+			<li>ow.ru.psy</li>
+			<li>ru.pashka.frozensnowfox.complexjobs</li>
+			<li>qux.betterarchitect</li>
+			<li>kelly259.betterarchitectmenu.ru</li>
+			<li>koberiddle.betterarchitectmenu.tweaks</li>
+			<li>ow.ru.core</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>vr.rus.missilegirl</li>
+		</ids>
+		<names>
+			<li>Harmony</li>
+			<li>Loading Progress</li>
+			<li>Faster Game Loading - Continued</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>Odyssey</li>
+			<li>Vanilla Backgrounds Expanded</li>
+			<li>Combat Extended</li>
+			<li>Adaptive Storage Framework</li>
+			<li>Fortified Features Framework</li>
+			<li>XML Extensions</li>
+			<li>HugsLib</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>1trickPwnyta's Anomaly Patch</li>
+			<li>1trickPwnyta's Biotech Patch</li>
+			<li>1trickPwnyta's Defaults</li>
+			<li>1trickPwnyta's Ideology Patch</li>
+			<li>1trickPwnyta's Odyssey Patch</li>
+			<li>[1.6] Do Not Avoid Fire</li>
+			<li>[ARY] Automatic Stump Chopping [1.5 - 1.6]</li>
+			<li>[CF] Better Looking Plants</li>
+			<li>[CM] Ideology DLC Texture Upscale</li>
+			<li>[ETF] Paws To Rest</li>
+			<li>[FSF] Growable Ambrosia</li>
+			<li>[NL] Facial Animation - WIP</li>
+			<li>[TW1.6]雪人贴图重置 Retexture~Snow man</li>
+			<li>AB's Head Apparel Tweaker</li>
+			<li>Adjustable Ability Cooldowns</li>
+			<li>AFU女士发型_Women's hairstyles</li>
+			<li>AFU男士发型_Men's hairstyles</li>
+			<li>All Ideoligions Are Fluid</li>
+			<li>Allow Tool</li>
+			<li>Architect Icons</li>
+			<li>Architect Menu Optimizer</li>
+			<li>Auto-repair On</li>
+			<li>Beautiful Bodies</li>
+			<li>Better Animal Info</li>
+			<li>Better Message Placement (Continued)</li>
+			<li>Better Mod Menu</li>
+			<li>Better money</li>
+			<li>Better Pawn Control</li>
+			<li>Blood Animations</li>
+			<li>Blueprints Forked - 1.6</li>
+			<li>Camera+</li>
+			<li>CE + Better Orbital Traders: MortarShell Fix</li>
+			<li>Change map edge limit</li>
+			<li>Character Editor</li>
+			<li>Choose Where To Land</li>
+			<li>Combat Extended rus</li>
+			<li>Common Sense</li>
+			<li>Compact Hediffs</li>
+			<li>Cut plants before building (Continued)</li>
+			<li>Damage Indicators [1.6]</li>
+			<li>Damage Overlay</li>
+			<li>Debug Log Auto-Open Off</li>
+			<li>Dev Mode Hotkey</li>
+			<li>Do Your F****** Research</li>
+			<li>DragSelect</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Skylights</li>
+			<li>Ducks' No Limits - Ideology (Continued)</li>
+			<li>Elk Retexture</li>
+			<li>Enhanced Carrying Capacity</li>
+			<li>Enhanced of Vanilla - Flaks and Plates</li>
+			<li>Extra Explosion Effects</li>
+			<li>Faction Customizer</li>
+			<li>Fix Styled Blueprints</li>
+			<li>Fortifications - Industrial</li>
+			<li>FPS And TPS</li>
+			<li>FPS Stabilizer</li>
+			<li>Friendly Hostile Factions (Continued)</li>
+			<li>Gerrymon's Greekcore Style</li>
+			<li>Glowing Ambrosia</li>
+			<li>Ground Targeter</li>
+			<li>GUI Performance Patch</li>
+			<li>Harvest Everything!</li>
+			<li>Help me build</li>
+			<li>Hospitality (Continued)</li>
+			<li>Hyperdrive</li>
+			<li>Improved Need Indicator</li>
+			<li>Layered Apparel</li>
+			<li>Madder Skills</li>
+			<li>Map Designer</li>
+			<li>Map Preview</li>
+			<li>MAZ Mass Assign Zone</li>
+			<li>Milky Way</li>
+			<li>Mine Sight</li>
+			<li>MinifyEverything</li>
+			<li>Modern Dev Tools</li>
+			<li>More Informative Ideology</li>
+			<li>More Religious Origins</li>
+			<li>More Religious Origins Russian</li>
+			<li>More Useful Materials</li>
+			<li>Multi-Reinstall</li>
+			<li>Muzzle Flash</li>
+			<li>Nice Bill Tab</li>
+			<li>Nice Inventory Tab</li>
+			<li>Nice Plants Menu</li>
+			<li>No Forced Slowdown</li>
+			<li>No Job Authors</li>
+			<li>No Random Apparel on Ideology Edit</li>
+			<li>No Random Relations</li>
+			<li>No Version Warning</li>
+			<li>No ZzZ</li>
+			<li>Numbers</li>
+			<li>Overlapping Interaction Spots</li>
+			<li>Packable Containers</li>
+			<li>Performance Optimizer - Russian Translation</li>
+			<li>Pick Up And Haul</li>
+			<li>Pipette Tool</li>
+			<li>Ponpeco Hair</li>
+			<li>Quality Colors (Continued)</li>
+			<li>QualityBuilder Unofficial 1.6</li>
+			<li>Quick Area</li>
+			<li>Quick Stockpile Creation</li>
+			<li>RandomPlus</li>
+			<li>RandomPlus - UA, Ru</li>
+			<li>Ranged DPS (Continued)</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>Reel's Expanded Storage</li>
+			<li>RenameColony</li>
+			<li>RenameColony Rus</li>
+			<li>Retexturedapparelnopawns1.5</li>
+			<li>Revert Column Texture</li>
+			<li>RimHUD</li>
+			<li>RimSaves</li>
+			<li>Romina Ready - Progression Storytellers</li>
+			<li>RuntimeGC [1.6] fork2</li>
+			<li>Rus Dubs Mint Menus</li>
+			<li>Rus Quick Stockpile Creation</li>
+			<li>Rus Realistic Rooms</li>
+			<li>Scenario Editor UI Overhaul</li>
+			<li>Sensible Factions</li>
+			<li>Set Owner for Prisoner Beds</li>
+			<li>Show Buildable Material Count</li>
+			<li>Show Me Your Hands</li>
+			<li>Simple sidearms</li>
+			<li>Smart Speed</li>
+			<li>Smart Speed - Русский перевод</li>
+			<li>Smarter Construction</li>
+			<li>Stack XXL</li>
+			<li>Static Quality</li>
+			<li>Style Revised - Animalist</li>
+			<li>Sun Lamp Auto-Basins</li>
+			<li>TD Find Lib - Continued</li>
+			<li>TDS Bug Fixes - Continued</li>
+			<li>Tech Level Progression</li>
+			<li>Terraform Rimworld</li>
+			<li>Trade UI Revised</li>
+			<li>Unburned</li>
+			<li>Undraft After Tucking</li>
+			<li>Use Minified Buildings - Supercharged!</li>
+			<li>Vanilla Backgrounds Expanded Russian Language Pack</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Ideology Expanded - Sophian Style</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Vanilla Textures Expanded - Ambrosia Texture FIX</li>
+			<li>Visandars Rocks and Stones</li>
+			<li>Visible Raid Points</li>
+			<li>Wealth Display (Continued)</li>
+			<li>WeaponStats</li>
+			<li>Worldbuilder</li>
+			<li>WVC - Work Modes</li>
+			<li>Перевод HugsLib</li>
+			<li>Русификатор RimHUD</li>
+			<li>Руссификатор Mech Work Tab</li>
+			<li>[CF] Anomaly Upscaled 2x</li>
+			<li>[CF] Odyssey Upscaled 2x</li>
+			<li>[LM] LusTech Vanilla Weapons Retexture</li>
+			<li>Achtung!</li>
+			<li>All 1trickPwnyta's Patch [RUS] [РУС]</li>
+			<li>ATH's Retexture Female Apparel</li>
+			<li>Better Orbital Traders</li>
+			<li>Biotech Mechanoid Retexture</li>
+			<li>Blood Animations [RU] 1.6</li>
+			<li>Character Editor - Facial Animation EyePatch</li>
+			<li>Clean Textures</li>
+			<li>Comms Console Retexture</li>
+			<li>Compact Hediffs Russian Language</li>
+			<li>Ctrl F - Continued</li>
+			<li>Damage Indicators [1.6] (Ru translation)</li>
+			<li>Disable Animated Marsh | Clean Textures - VTE, Regrowth Compatibility Patch</li>
+			<li>Fortification Industrial - Citadel</li>
+			<li>Fortification Industrial - Frontier</li>
+			<li>Gerrymon's Greekcore Style на русском языке</li>
+			<li>Gerrymon's Upscaled Vanilla Textures</li>
+			<li>Harvest Everything - Russian Fix</li>
+			<li>HiTech Research Bench Retexture</li>
+			<li>Improved Need Indicator [RU]</li>
+			<li>Layered Apparel [RUS] [РУС]</li>
+			<li>Long Range Mineral Scanner Retexture</li>
+			<li>Mech Work Tab</li>
+			<li>Mechanoid Cluster Retexture</li>
+			<li>More Useful Materials Retexture</li>
+			<li>More Vanilla Textures</li>
+			<li>Multi Analyzer Retexture</li>
+			<li>Nice Hands Retexture</li>
+			<li>Nice Inventory Tab CE Integration</li>
+			<li>Nice Research Tab</li>
+			<li>Pilot Console Retexture</li>
+			<li>Privacy Please!</li>
+			<li>Progression: Scenarios</li>
+			<li>Progression: Storytellers</li>
+			<li>Psychic Sensitivity Affects More (VPE)</li>
+			<li>QOL rus</li>
+			<li>Quality Colors rus</li>
+			<li>Ranged DPS (Continued) rus</li>
+			<li>Reel's Expanded Storage - Russian</li>
+			<li>Replace Stuff - Continued</li>
+			<li>Russian Language For Simple Sidearms</li>
+			<li>Rustic Meal Retexture</li>
+			<li>Simple Cape and Hood Retexture</li>
+			<li>Stack gap</li>
+			<li>Tastier Vanilla Clothes</li>
+			<li>Useful Marks</li>
+			<li>Van's Retexture : Hemogen Vials </li>
+			<li>Van's Retexture : Mechanitor</li>
+			<li>Van's Retexture : Melee Weapons</li>
+			<li>Vanilla + Wall Vitals Monitors Retexture</li>
+			<li>Vanilla Furniture Expanded - Props and Decor Russian Language Pack</li>
+			<li>Vanilla Ideology Expanded Russian Language Pack</li>
+			<li>Vanilla Mechanoid Slag Chunks Retextured</li>
+			<li>Vanilla Psycasts Expanded - Hemosage</li>
+			<li>Vanilla Psycasts Expanded - Puppeteer</li>
+			<li>Vanilla Textures Expanded - [NL] Facial Animation</li>
+			<li>Visible Raid Points rus</li>
+			<li>WealthList 1.5 From VUIE</li>
+			<li>WorldbuilderRUS</li>
+			<li>WVC - Work Modes Russian Language</li>
+			<li>[FSF] Complex Jobs</li>
+			<li>Achtung! Russian Language</li>
+			<li>Ammo Readout</li>
+			<li>Better Architect Menu</li>
+			<li>Busywork</li>
+			<li>Clean Textures - Less Grass</li>
+			<li>Fortification - Pack Rus</li>
+			<li>Goidafication</li>
+			<li>Parka Retexture</li>
+			<li>Progression - Русификатор</li>
+			<li>Replace Stuff Russian Language</li>
+			<li>Turret Vanilla Retexture and Restyle</li>
+			<li>Vanilla Psycasts Expanded Russian Language Pack</li>
+			<li>[FSF] Complex Jobs Russian Language</li>
+			<li>Better Architect Menu +</li>
+			<li>Better Architect Menu RUS</li>
+			<li>Better Architect Menu | Tweaks</li>
+			<li>Vanilla Expanded Framework Russian Language Pack</li>
+			<li>Performance Optimizer</li>
+			<li>Missile Girl - Performance Mod</li>
+		</names>
+	</modList>
+</savedModList>
